@@ -59,10 +59,6 @@ I'm fascinated by the intersection of biology and technology, and I'm exploring 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=iaradelgado&custom_title=Iara%27s%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=D85B9A&text_color=536D9E&icon_color=65B9E8" alt="Iara's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iaradelgado&hide_border=true&background=FFF0F6&ring=E88BBF&fire=65B9E8&currStreakLabel=D85B9A&sideLabels=579BC4&currStreakNum=D85B9A&sideNums=536D9E&dates=8B91A8" alt="Iara's GitHub Contribution Streak" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:C6E7FF,100:FFE0EF&height=100&section=footer" width="100%" />
